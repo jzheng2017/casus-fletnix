@@ -1,0 +1,14 @@
+DELETE FROM Movie_Cast
+DELETE FROM Movie_Directors
+DELETE FROM Movie_Genre
+DELETE FROM Genre
+DELETE FROM Person
+DELETE FROM WatchHistory
+DELETE FROM Movie
+DELETE FROM Customer
+DELETE FROM Payment
+DELETE FROM Contract
+DELETE FROM Country
+DELETE FROM Award
+DELETE FROM Category
+DELETE FROM Nominations
